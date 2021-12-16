@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">G7s21hugo4295p8</string>
+    <string name="tp1">Implementacion de Gson</string>
+    <string name="tnombre">Ingrese su nombre</string>
+    <string name="tedad">Ingresa edad</string>
+    <string name="tcorreo">ingresa correo electronico</string>
+    <string name="tbconvierte">Convertir Gson</string>
+    <string name="tbclase">Regresar a clase</string>
+</resources>
